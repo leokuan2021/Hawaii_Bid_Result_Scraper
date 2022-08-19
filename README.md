@@ -1,4 +1,4 @@
-# Hawaii_Bid_Result_Scraper
+# Hawaii Bid Result Scraper
 Program to scrape public work construction bid results in Hawaii using Python with Scrapy for analyzing business trends
 
 This is a scraper written using Python with Scrapy for scraping public bid results to collect bid information such as bid amounts, listed subcontractors that can be used for analyzing business trends.
